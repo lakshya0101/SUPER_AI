@@ -1,0 +1,13 @@
+﻿Division Name,Product,Question Type,Question,Expected Answer,SuperAI_Response,Pass/Fail/DataMissing,Reason
+Transplant,ALPHADOL PLUS,composition,What is the composition strength of ALPHADOL PLUS per capsule?,,,,
+Transplant,ALPHADOL PLUS,indication,What are the indicated uses of ALPHADOL PLUS mentioned in the document?,,,,
+Transplant,ALPHADOL PLUS,dosage,What is the recommended dosage frequency for ALPHADOL PLUS?,,,,
+Transplant,PANGRAF,composition,"What are the Tacrolimus capsule strengths listed for PANGRAF, and how many units are mentioned per strip?",,,,
+Transplant,PANGRAF,mechanism,What mechanism of action is described for Tacrolimus in PANGRAF?,,,,
+Transplant,PANGRAF,dosage,What recommended dosage is given for PANGRAF in kidney transplant when used with MMF/IL-2 receptor antagonist?,,,,
+Transplant,PANGRAF,MRP,What is the M.R.P. per strip for the 1 mg strength of PANGRAF?,,,,
+Transplant,PROGRAF,company,"Which company is listed for the competitor brand PROGRAF, and what price is shown for it?",,,,
+Transplant,SIROPAN,composition,What is the composition of SIROPAN in each SKU?,,,,
+Transplant,SIROPAN,indication,What is SIROPAN indicated for?,,,,
+Transplant,SIROPAN,dosage,What is the recommended loading dose and maintenance dose for SIROPAN?,,,,
+ 
